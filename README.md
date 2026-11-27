@@ -19,7 +19,7 @@
 | [plugharbor](https://github.com/KerryHuang/plugharbor) | AI agent 工作模式的 plugin marketplace，Claude Code、Codex、pi、agy 共用 |
 | [selfservice-bi](https://github.com/KerryHuang/selfservice-bi) | 給製造業主管的自助報表與儀表板，自己組報表不用寫 SQL |
 | [小小](https://github.com/KerryHuang/xiaoxiao) | 日常語音助理：說「嘿，小小」就出現 |
-| [開發筆記](https://kerryhuang.github.io/Book/) | .NET、架構設計、資料庫、基礎建設、AI 的教學與手冊 |
+| 開發筆記（[GitBook](https://kerryhuangs-organization.gitbook.io/kerry-de-bi-ji-ben/)／[GitHub Pages](https://kerryhuang.github.io/Book/)） | .NET、架構設計、資料庫、基礎建設、AI 的教學與手冊 |
 
 ## 技能
 

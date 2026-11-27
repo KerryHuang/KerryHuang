@@ -33,5 +33,6 @@
 
 ## 聯絡
 
+- 部落格：[凱瑞的筆記本](https://kerry-notes.kh-lab.workers.dev)
 - LinkedIn：[kerryhuang317](https://www.linkedin.com/in/kerryhuang317)
 - Cake：[kerry-huang-63453a](https://www.cake.me/resumes/kerry-huang-63453a)
